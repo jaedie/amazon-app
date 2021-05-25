@@ -15,4 +15,4 @@
 <ins>***For Backend***</ins>
 - Firebase
 
-[Click Here🚀](https://amzn-app-86035.web.app) for a direct link to the project.
+<a href="https://amzn-app-86035.web.app/" target="_blank" title="Amazon-app">Click Here🚀</a> for a direct link to the project.
