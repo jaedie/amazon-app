@@ -1,0 +1,39 @@
+@import "../../Styles/variables";
+
+.checkoutProduct {
+  display: flex;
+  padding: 10px;
+
+  &__image {
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+  }
+
+  &__info {
+    padding-left: 20px;
+    @include displayFlex(column, flex-start, flex-start);
+  }
+
+  &__title {
+    font-size: 17px;
+    font-weight: 800;
+  }
+
+  &__ratings {
+    padding: 10px 0;
+    @include displayFlex(row, flex-start, center);
+  }
+
+  &__info > button {
+    margin-bottom: 10px;
+    text-align: center;
+    width: 177px;
+    height: 28px;
+    background-image: linear-gradient(rgb(247, 223, 165), rgb(240, 193, 75));
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+}

@@ -1,4 +1,5 @@
 @import "../Styles/variables";
+
 .products {
   @include displayFlex(column, space-between, center);
   flex: 1;
