@@ -6,7 +6,7 @@
   - **Add and remove a product to/from the basket**
 
 ## Stacks Used
-<u>***For Frontend***</u>
+<ins>***For Frontend***</ins>
 - React.js
 - Functional Component
 - Context API
