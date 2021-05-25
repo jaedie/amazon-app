@@ -11,3 +11,8 @@
 - Functional Component
 - Context API
 - Sass
+
+<ins>***For Backend***</ins>
+- Firebase
+
+click below for a direct link to the project 👇
